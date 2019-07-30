@@ -1,11 +1,11 @@
 # AutomationTesting
 Python&Java
 
-#CICD
+##CICD##
 Gitlab
 Jenkins
 
-#Python code
+##Python code##
 Tools:
 Unittest
 Selenium
@@ -13,7 +13,7 @@ Pytest
 Html for report
 xger
 
-#Java code
+##Java code##
 Tools:
 Jmeter
 TestNG
