@@ -1,4 +1,4 @@
-# AutomationTesting
+# PythonAutomationTesting
 Python&Java
 
 # CICD 
@@ -34,8 +34,4 @@ xger
 
 ![alt text](https://github.com/leoli2019/AutomationTesting/blob/master/PythonAutomation/SeleniumAuto/testReport.JPG)
 
-# Java code
-Tools:
-Jmeter
-TestNG
-JUnit
+
