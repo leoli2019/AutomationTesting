@@ -14,12 +14,6 @@ Pytest
 Html for report
 xger
 
-import unittest
-import PythonAutomation
-from PythonAutomation.SeleniumAuto.login_20_ui import TestLoginOrion
-from PythonAutomation.SeleniumAuto.NBAI_Pro_upload_ui import OrionProUploadUI
-from PythonAutomation.SeleniumAuto.HTML import HTMLStyle
-
 class MyTestSuite(unittest.TestCase):
 
     def test_cases(self):
@@ -38,10 +32,9 @@ class MyTestSuite(unittest.TestCase):
         )
         runner1.run(smoke_test)
 
-if __name__ == '__main__':
-    unittest.main()
 
 ![alt text](https://github.com/leoli2019/AutomationTesting/blob/master/PythonAutomation/SeleniumAuto/testReport.JPG)
+
 # Java code
 Tools:
 Jmeter
