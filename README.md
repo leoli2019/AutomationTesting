@@ -13,8 +13,8 @@ Pytest
 Html for report
 xger
 
-#Java code#
-Tools
+#Java code
+Tools:
 Jmeter
 TestNG
 JUnit
