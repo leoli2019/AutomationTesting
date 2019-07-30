@@ -4,6 +4,7 @@ Python&Java
 # CICD 
 Gitlab
 Jenkins
+Azure
 
 # Python code
 Tools:
