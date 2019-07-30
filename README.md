@@ -15,7 +15,6 @@ Html for report
 xger
 
 class MyTestSuite(unittest.TestCase):
-
     def test_cases(self):
         smoke_test = unittest.TestSuite()
         smoke_test.addTests([
@@ -24,7 +23,6 @@ class MyTestSuite(unittest.TestCase):
             unittest.defaultTestLoader.loadTestsFromTestCase(PythonAutomation.SeleniumAuto.login_20_ui.TestLoginOrion),
         ])
         outfile = open("TestReport_UI/SeleniumReportUI.html", "w")
-
         runner1 = HTMLStyle(
             stream=outfile,
             title='UI Test Report',
