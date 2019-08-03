@@ -1,5 +1,6 @@
 # PythonAutomationTesting
-Python&Java
+Python
+Java https://github.com/leoli2019/AutomationTestingJAVA
 
 # CICD 
 Gitlab
